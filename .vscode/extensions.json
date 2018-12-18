@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+      "ms-vscode.PowerShell",
+      "DavidAnson.vscode-markdownlint",
+      "coenraads.bracket-pair-colorizer",
+      "editorconfig.editorconfig"
+    ]
+}
